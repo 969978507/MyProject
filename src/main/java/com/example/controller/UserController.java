@@ -4,6 +4,7 @@ import javax.annotation.Resource;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.example.entity.User;
 import com.example.service.IUserService;
@@ -19,8 +20,12 @@ public class UserController {
 		System.out.println(11223344);
 		User user = userService.findById("001");
 		System.out.println(user);
-		
 		return "/index";
 	}
 	
+	@ResponseBody
+	@RequestMapping("toAjax")
+	public String toAjax(User user) {
+		return "11";
+	}
 }

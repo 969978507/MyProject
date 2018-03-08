@@ -10,6 +10,7 @@ public class User implements Serializable {
 	private String name;
 	private String sex;
 	private Date birth;
+	private Boolean chinese;
 	public String getId() {
 		return id;
 	}
@@ -34,9 +35,14 @@ public class User implements Serializable {
 	public void setBirth(Date birth) {
 		this.birth = birth;
 	}
+	public Boolean isChinese() {
+		return chinese;
+	}
+	public void setChinese(Boolean chinese) {
+		this.chinese = chinese;
+	}
 	@Override
 	public String toString() {
-		return "User [id=" + id + ", name=" + name + ", sex=" + sex + ", birth=" + birth + "]";
+		return "User [id=" + id + ", name=" + name + ", sex=" + sex + ", birth=" + birth + ", chinese=" + chinese + "]";
 	}
-	
 }
