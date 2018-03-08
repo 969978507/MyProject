@@ -1,0 +1,36 @@
+2018-03-05 14:36:13,289 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 25616 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-05 14:36:13,291 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-05 14:36:13,291 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-05 14:37:10,961 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 15396 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-05 14:37:10,963 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-05 14:37:10,976 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-05 14:39:02,253 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 14436 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-05 14:39:02,254 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-05 14:39:02,255 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-05 14:39:51,000 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 10896 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-05 14:39:51,001 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-05 14:39:51,001 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-05 14:39:52,849 INFO (StartupInfoLogger.java:57)- Started Application in 1.994 seconds (JVM running for 2.637)
+2018-03-05 14:39:52,849 INFO (Application.java:49)- SpringBoot Start Success
+2018-03-05 14:39:57,036 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT id, name, sex, birth FROM user WHERE id = ? 
+2018-03-05 14:39:57,049 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 001(String)
+2018-03-05 14:39:57,058 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-03-05 14:40:07,572 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 15524 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-05 14:40:07,573 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-05 14:40:07,573 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-05 14:40:53,491 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 8872 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-05 14:40:53,492 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-05 14:40:53,493 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-05 14:40:55,485 INFO (StartupInfoLogger.java:57)- Started Application in 2.136 seconds (JVM running for 2.797)
+2018-03-05 14:40:55,486 INFO (Application.java:49)- SpringBoot Start Success
+2018-03-05 14:40:58,043 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT id, name, sex, birth FROM user WHERE id = ? 
+2018-03-05 14:40:58,056 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 001(String)
+2018-03-05 14:40:58,063 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-03-05 14:41:56,264 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 4876 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-05 14:41:56,266 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-05 14:41:56,266 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-05 14:41:58,234 INFO (StartupInfoLogger.java:57)- Started Application in 2.113 seconds (JVM running for 2.776)
+2018-03-05 14:41:58,234 INFO (Application.java:49)- SpringBoot Start Success
+2018-03-05 14:42:01,798 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT id, name, sex, birth FROM user WHERE id = ? 
+2018-03-05 14:42:01,812 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 001(String)
+2018-03-05 14:42:01,820 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1

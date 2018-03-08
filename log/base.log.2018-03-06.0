@@ -1,0 +1,3 @@
+2018-03-06 10:44:09,789 INFO (StartupInfoLogger.java:48)- Starting Application on halo-kugo with PID 13120 (D:\MyProject\SpringBoot\target\classes started by lpy in D:\MyProject\SpringBoot)
+2018-03-06 10:44:09,791 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-03-06 10:44:09,792 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default

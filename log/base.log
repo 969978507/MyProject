@@ -1,0 +1,1 @@
+2018-03-07 11:58:50,855 ERROR (RedisUtil.java:38)- redis设置缓存失败：java.net.SocketTimeoutException: Read timed out
