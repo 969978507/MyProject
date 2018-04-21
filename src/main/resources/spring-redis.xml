@@ -44,8 +44,11 @@
                 class="org.springframework.data.redis.serializer.JdkSerializationRedisSerializer"></bean>
         </property>
     </bean>
-
-
+    
+    <bean id="redisUtils" class="com.example.util.RedisUtils">
+        <property name="redisTemplate" ref="redisTemplate" />
+    </bean>
+    
     <!-- 开启缓存注解 -->
     <cache:annotation-driven cache-manager="cacheManager" />
 

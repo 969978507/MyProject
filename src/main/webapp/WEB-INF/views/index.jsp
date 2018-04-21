@@ -8,6 +8,7 @@
 </head>
 <body>
 	HELLO MY FRIEND!
+	<img src="${pageContext.request.contextPath}/getImg">
 	<script type="text/javascript">
 	$.ajax({
 		type:"POST",
